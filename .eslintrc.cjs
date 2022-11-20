@@ -24,7 +24,7 @@ module.exports = {
     '@typescript-eslint/comma-dangle': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
     'object-curly-newline': 'off',
-    'no-console': 'warn',
+    'no-console': 'error',
     'no-empty-pattern': 'off',
     'no-trailing-spaces': 'off',
     'linebreak-style': 'off',
